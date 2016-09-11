@@ -1,0 +1,21 @@
+{
+  "name": "s3upload",
+  "version": "1.0.0",
+  "description": "Upload file to S3",
+  "main": "index.html",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpklzm/S3Upload.git"
+  },
+  "author": "Jean Menezes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpklzm/S3Upload/issues"
+  },
+  "homepage": "https://github.com/jpklzm/S3Upload#readme",
+  "dependencies": {
+  }
+}
